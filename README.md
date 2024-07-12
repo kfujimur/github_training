@@ -1,1 +1,1 @@
-# github_training
+# github_training from UC Berkeley
